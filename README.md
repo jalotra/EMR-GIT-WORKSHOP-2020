@@ -3,6 +3,7 @@ This contains some of the material that I found useful.
 
 ## DOCS
 1. Documentation : https://git-scm.com/docs
+2. Slides that I used : [Slides](https://drive.google.com/drive/folders/1yReu1HMAgcaZ7mljxDGPePzyHYrn6Lli?usp=sharing)
 
 
 # AGENDA ?
